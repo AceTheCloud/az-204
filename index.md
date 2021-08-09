@@ -163,7 +163,7 @@ Students will learn how to use different caching services to improve the perform
 
 ## Labs
 
-Download Labs Files from here [Labs](https://github.com/AceTheCloud/az-204/blob/main/Allfiles/Labs.zip)
+Download Labs Files from here [Labs](https://raw.githubusercontent.com/AceTheCloud/az-204/main/Allfiles/Labs.zip)
 
 {% assign labs = site.pages | where_exp: "page", "page.url contains '/Instructions/Labs'" %}
 | Module | Lab |
