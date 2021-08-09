@@ -163,6 +163,8 @@ Students will learn how to use different caching services to improve the perform
 
 ## Labs
 
+Download Labs Files from here [Labs](/AllFiles/Labs/Labs.zip)
+
 {% assign labs = site.pages | where_exp: "page", "page.url contains '/Instructions/Labs'" %}
 | Module | Lab |
 | --- | --- |
