@@ -8,6 +8,8 @@ layout: home
 
 ## Course AZ-204T00-A: Developing solutions for Microsoft Azure
 
+### Instructor : Abhishek Gupta
+
 This course teaches developers how to create end-to-end solutions in Microsoft Azure. Students will learn how to implement Azure compute solutions, create Azure Functions, implement and manage web apps, develop solutions utilizing Azure storage, implement authentication and authorization, and secure their solutions by using KeyVault and Managed Identities. Students will also learn how to connect to and consume Azure services and third-party services, and include event- and message-based models in their solutions. The course also covers monitoring, troubleshooting, and optimizing Azure solutions.
 
 ### Audience profile
